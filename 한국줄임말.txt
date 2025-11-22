@@ -202,17 +202,17 @@ A.M.: Ante Meridiem (오전)
 AMC: American Mathematics Competitions (미국 수학 경시대회)
 AIME: American Invitational Mathematics Examination
 ATC: Air Traffic Control (항공관제)
-B.C.E.: Before Common Era (기원전)[69]
+B.C.E.: Before Common Era (기원전)
 ATIS: Automatic Terminal Information Service (공항정보방송업무)
-C.E.: Common Era (서력기원)[70]
-COVID-19: Coronavirus disease 2019 (코로나바이러스감염증-19)[71]
+C.E.: Common Era (서력기원)
+COVID-19: Coronavirus disease 2019 (코로나바이러스감염증-19)
 IAEA: International Atomic Energy Agency (국제 원자력 기구)
 ICU: Intensive Care Unit(중환자실, 집중치료실), Information and Communications University(한국정보통신대학교)
 IMF: International Monetary Fund (국제통화기금)
 IMO: International Maritime Organization (국제해사기구), International Mathematical Olympiad (세계 수학 경시대회)
 IPA: International Phonetic Alphabet (국제음성기호)
 IPhO: International Physics Olympiad (세계 물리 경시대회)
-ISBT: InterState Bus Terminal (주간버스터미널)[72]
+ISBT: InterState Bus Terminal (주간버스터미널)
 KMO: Korean Mathematical Olympiad (한국 수학 경시대회)
 LASER: Light Amplification by the Stimulated Emission of Radiation (레이저)
 LSA: Lubricant Small Arms (소형화기용 윤활유)
@@ -220,10 +220,10 @@ P.M.: Post Meridiem (오후)
 ROTC: Reserve Officers Training Corps(예비 장교 교육단)
 UN: United Nations(국제연합)
 Univ.: University
-WB: 해당 문서로.
-WHO[73]: World Health Organization(세계보건기구)
+WHO: World Health Organization(세계보건기구)
 WTO: World Trade Organization(세계무역기구), Warsaw Treaty Organization(바르샤바 조약기구)[74]
 WTF: What The Fuck
 WWF: World Wide Fund for nature (세계야생동물기금)
 WWF: World Wrestling Federation (세계 레슬링 연맹)
+
 AMD: Advanced Micro Devices
