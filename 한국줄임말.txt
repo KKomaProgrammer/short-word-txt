@@ -221,9 +221,8 @@ ROTC: Reserve Officers Training Corps(예비 장교 교육단)
 UN: United Nations(국제연합)
 Univ.: University
 WHO: World Health Organization(세계보건기구)
-WTO: World Trade Organization(세계무역기구), Warsaw Treaty Organization(바르샤바 조약기구)[74]
+WTO: World Trade Organization(세계무역기구), Warsaw Treaty Organization(바르샤바 조약기구)
 WTF: What The Fuck
 WWF: World Wide Fund for nature (세계야생동물기금)
 WWF: World Wrestling Federation (세계 레슬링 연맹)
-
 AMD: Advanced Micro Devices
